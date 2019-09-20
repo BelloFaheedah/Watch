@@ -1,0 +1,260 @@
+body{
+    padding:10px 50px 10px 50px;
+    object-position: initial;
+}
+.all{padding :50px 50px 50px 50px;}
+.Heade {
+    background-color:rgb(230, 225, 225);
+    padding:20px 50px 5px 50px;
+    height:500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Ibb img {
+    float:left;
+    background-size: 15em;
+    width:35%;
+    height:45%;
+    /*margin:70px 200px 50px 20px;*/
+   }
+
+#Ibb p{
+    color: blue;
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+}
+.ddd >a:link {
+    width: 10%;
+    color:white;
+    background-color: rgb(46, 46, 187);
+    border-radius: 0.5em;
+    /*margin: 0.33em;*/
+}
+.ddd > a:hover{
+    color: white;
+    text-decoration: none;
+}
+.ddd > a:visited {
+    color: gray;
+    text-decoration: none;
+}
+.ddd > a:link {
+    color: white;
+    text-decoration: none;
+    width:89px;
+    background-color: rgb(25, 127, 216);
+    border-radius:1em;
+    
+}
+.Heade > a {
+    float: right;
+    text-decoration: none;
+    text-indent: 1.5cm;
+    color: black;
+    text-underline-position:below; 
+}
+.Heade > img{
+    float: left;
+    margin-left: 20px;
+}
+
+#about{
+    height:250px;
+    background-color:white;
+    padding:3px 50px 3px 50px; 
+}
+#about img{
+    float: right;
+    padding:35px 0px 0px 00px ;
+}
+#about h2{
+    text-align:center;
+}
+.insides{
+    padding:3px 50px 3px 50px;
+    height: 650px;
+}
+#testi{
+    padding:0px 50px 0px 50px;
+    
+    border-radius:1em 1em 1em 1em;
+    background-color: rgb(116, 116, 240);
+    padding:3px 50px 3px 50px;
+    border-style:ridge;
+    border-color: aquamarine;
+    margin: 50px 50px 10px 30px;
+    height:430px;
+
+}
+.insides h2{
+    text-align: center;
+}
+.aa  {
+    background-color:rgb(68, 68, 245);
+    border-radius:1em;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:200px 200px;
+    margin: 20px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+    color:white;
+}
+.aa img{
+    color: white;
+}
+.ab{background-color:whitesmoke;
+    border-radius:1em;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:250px 250px;
+    margin: 20px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+}
+.ac{background-color:whitesmoke;
+    border-radius:1em;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:200px 200px;
+    margin: 20px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+}
+.ba{
+    background-color:whitesmoke;
+    border-radius:1em;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:200px 200px;
+    margin: 20px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+    
+}
+.bb{
+    background-color:whitesmoke;
+    border-radius:1em;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:200px 200px;
+    margin: 20px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+    
+  
+   }
+.bc{
+    background-color:whitesmoke;
+    border-radius:1em;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:250px 250px;
+    margin: 20px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+    
+   }
+.get{
+    text-align: center;
+    background-color: rgb(192, 188, 188);
+    padding:10px 100px 5px 100px;
+    margin: 0px 50px 10px 30px;
+   
+}
+.ta{ padding:20px 50px 20px 50px;
+    background-color: aliceblue;
+    border-radius: 1em 1em;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:200px 200px;
+    margin: 0px 25px 10px 45px;
+    border-spacing:6%;
+    float: left;
+    width:15%;  
+    height:300px;
+}
+.ta h5{
+    float:right;
+}
+.ta em{
+    float:right;
+}
+.tc{ padding:20px 50px 20px 50px;
+    background-color: aliceblue;
+    border-radius: 1em 1em;
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:200px 200px;
+    margin: 0px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+    height:300px;
+}
+.tc h5{
+    float:right;
+}
+.tb{
+    padding:20px 50px 20px 50px;
+    background-color: aliceblue;
+
+    border-radius: 1em 1em;   
+    border-style:ridge;
+    border-color:rgb(183, 248, 216);
+    box-sizing:200px 200px;
+    margin: 0px 25px 10px 25px;
+    border-spacing:2%;
+    float: left;
+    width:15%;
+    height:300px;
+}
+.tb h5{
+    float:right;
+}
+.nn, .nm, .nk{
+    float: right;
+}
+#testi h3{text-align:center;
+}
+.sm{
+    text-align:center;
+    padding:4px 50px 4px 50px ;
+    height:100px;
+}
+.sm p{
+    text-align: center;
+}
+.m {
+    border-radius: 0.3em;
+    width:105px;
+}
+.sm a{float: left;
+    text-decoration: none;
+    text-indent: 1.5cm;
+    color: black;
+}
+.fed {float:left;
+    height:20px;
+    
+}
+
+
